@@ -1,0 +1,23 @@
+{
+  "name": "zixueba-admin",
+  "version": "1.0.0",
+  "description": "zixueba admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PythonAcademy/zixueba-admin.git"
+  },
+  "keywords": [
+    "zixueba",
+    "admin"
+  ],
+  "author": "jasonyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PythonAcademy/zixueba-admin/issues"
+  },
+  "homepage": "https://github.com/PythonAcademy/zixueba-admin#readme"
+}
